@@ -1,0 +1,20 @@
+{
+  "name": "webdev_assignment",
+  "version": "1.0.0",
+  "description": "1) I have created nav for navbar and main for intial section\r 2) I have also created various section which are listed below\r     i. trusted\r     ii. features\r     iii. testimonals\r     iv. usecases\r     v. logs\r     vi. aboutTeam\r     vii. final-cta\r     viii. footer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tirth02/html_cursor_assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tirth02/html_cursor_assignment/issues"
+  },
+  "homepage": "https://github.com/Tirth02/html_cursor_assignment#readme"
+}
